@@ -47,6 +47,7 @@ Requirements
 * OpenAlea.core
 * OpenAlea.visualea
 * OpenAlea.PlantGl
+* Alinea.ASTK
 * NumPy
 * Scipy
 * MatplotLib
@@ -68,7 +69,7 @@ Install the different packages
 
   conda install -c conda-forge rpy2 
 
-  conda install -c anaconda -c openalea openalea.mtg openalea.visualea openalea.core openalea.components numpy scipy matplotlib pandas pil
+  conda install -c defaults -c openalea openalea.mtg openalea.visualea openalea.core openalea.components alinea.astk numpy scipy matplotlib pandas pil
 
 
 Install adel
